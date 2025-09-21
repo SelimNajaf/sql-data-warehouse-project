@@ -1,4 +1,4 @@
-# 🚲 Bicycle-Sales Data-Lakehouse  
+#  Data Warehouse Project  
 **MySQL | Bronze → Silver → Gold | Star-Schema | Idempotent SQL**
 
 
